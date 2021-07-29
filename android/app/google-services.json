@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "1076558338705",
+    "firebase_url": "https://yalm-31550.firebaseio.com",
+    "project_id": "yalm-31550",
+    "storage_bucket": "yalm-31550.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1076558338705:android:e44fb5b988f679bac43d30",
+        "android_client_info": {
+          "package_name": "com.example.cloud_messaging"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1076558338705-485ljae5j1bcatr5j1tnd69kf5rh27td.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDI4auL7-XWYYam722OC3k6Xeug1qGQ8QA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1076558338705-485ljae5j1bcatr5j1tnd69kf5rh27td.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "1076558338705-he9ba0v3c80hfu7uoo3ji7gcs7bkq173.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "asd.asd.c"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
